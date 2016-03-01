@@ -1,0 +1,24 @@
+{
+  "name": "countdown",
+  "version": "0.0.1",
+  "authors": [
+    "Yuan Lin"
+  ],
+  "description": "A countdown page and some history of OSCAR and the transition for us to remember.",
+  "keywords": [
+    "static",
+    "site"
+  ],
+  "license": "MIT",
+  "homepage": "http://10.1.34.43/countdown",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Bootflat": "~2.0.4"
+  }
+}
